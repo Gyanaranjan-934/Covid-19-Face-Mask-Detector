@@ -1,6 +1,7 @@
 # COVID-19 Face Mask Detector
 
-![Mask Detection](Face-Mask-Detection.pdf)
+![Mask Detection](face-mask-detector.jpeg)
+
 
 ## Overview
 
